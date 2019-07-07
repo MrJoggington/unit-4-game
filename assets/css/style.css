@@ -1,0 +1,32 @@
+html {
+	width:100%;
+	height:100%;
+	background-image: url("../images/background.jpg");
+	background-position: cover;
+	color: white;
+}
+
+h1, h2 {
+	color: white;
+}
+
+body {
+	background-color: transparent;
+}
+
+.panel {
+	/*width: 22%;*/
+	display: inline-block;
+	margin: 10px;
+	text-align: center;
+}
+
+.panel img {
+	max-height: 200px;
+	width: auto;
+}
+
+#status {
+	color: white;
+	font-size: 20px;
+}
